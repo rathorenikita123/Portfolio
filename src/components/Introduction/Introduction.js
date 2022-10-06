@@ -7,7 +7,7 @@ const Introduction = () => {
     return (
         <div className='i'>
             <div className="i-left">
-                <h1 className='i-intro'>Hello</h1>
+                <h1 className='i-intro'>Hello!</h1>
                 <h2 className='i-intro-name'>I'm Nikita Rathore <br/>a student at IIIT Gwalior
                 <br/>
                 <span className='i-intro-and'>and a  </span>

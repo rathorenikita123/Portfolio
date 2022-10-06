@@ -13,6 +13,7 @@ input{
     background-color: transparent;    
     padding-left: 1rem;
     color: var(--text-color);
+    border-radius: 10px;
 }
 
 /* input::placeholder, textarea::placeholder{
@@ -27,6 +28,7 @@ textarea{
     background-color: transparent;
     padding: 1rem;
     color: var(--text-color);
+    border-radius: 10px;
 }
 
 button{

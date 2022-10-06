@@ -1,0 +1,30 @@
+.s-h{
+    text-align: center;
+    font-size: 2rem;
+    padding-top: 2rem;
+}
+
+.s-info{
+
+    display: flex;
+    /* display: grid; */
+    /* grid-template-columns: repeat(5, 1fr); */
+    /* grid-gap: 1rem; */
+    /* padding: 1rem; */
+    /* width: 50%; */
+    margin-left: 20rem;
+    margin-right: 20rem;
+    flex-direction: row;
+
+    flex-wrap: wrap;
+    align-items: center;
+    /* padding: 00.5rem; */
+    justify-content: center;      
+}
+    
+.s-i{
+    width: 75px;
+    height: 75px;
+    padding: 1rem;   
+    align-self: center;
+}
